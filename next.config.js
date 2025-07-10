@@ -11,4 +11,6 @@ const nextConfig = {
   },
 }
 
-export default nextConfig
+// استخدم module.exports بدلاً من export default
+module.exports = nextConfig
+
